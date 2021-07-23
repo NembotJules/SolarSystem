@@ -1,2 +1,3 @@
 # SolarSystem
-A solar system simulation in Html, Css and Javascript 
+A solar system simulation in Html, Css and Javascript with  every orbit draw and a small extraterrestral spaceship which collect information about people on Earth...
+The Orbital speed of the Planet are normalize to the Earth's orbital speed, the distance between the sun are in the same order as in the solar system but the value are not the Same.
